@@ -8,7 +8,7 @@
 </head>
 <body>
     <!-- this is headings -->
-    <h1>Helooowwww 8C</h1>
+    <h1>Helloo!</h1>
     <h2>I love school</h2>
     <h3>This is William</h3>
     <h4>Remember to get some rest!</h4>
@@ -17,15 +17,15 @@
  
 <image></image>
     <!-- image -->
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBZO0hr8bZc8MhhzAqi8p_4OmTI4qEPJcyg&s" alt="this is hamster butt">
-     <img src="/img/blobfish.jpg" alt="">
+     <img src="https://tse4.mm.bing.net/th/id/OIP.KfSeyfKxWgueQpuVRw_H_wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3">
+     <img src="https://tse4.mm.bing.net/th/id/OIP.40OarKjWBVpJV7nhZISw6wHaHa?w=600&h=600&rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
 
 <li
      <!-- list -->
       <ol>
-        <li>fish</li>
-        <li>tissue</li>
-        <li>card</li>
+        <li>William</li>
+        <li>Willy is also called</li>
+        <li>Wil</li>
       </ol>
 
    <table
@@ -38,14 +38,14 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>Kirei</td>
-        <td>24</td>
+        <td>William Fendi</td>
+        <td>13</td>
       </tr>
     </table>
 
 🥇
     <!-- hyperlink -->
-    <a href="https://elyon.sch.id/id/">Click Me!</a>
-    <a href="/fish.html">Second Page</a>
+    <a href="https://www.manutd.com/">Click Me!</a>
 </body>
 </html>
+
